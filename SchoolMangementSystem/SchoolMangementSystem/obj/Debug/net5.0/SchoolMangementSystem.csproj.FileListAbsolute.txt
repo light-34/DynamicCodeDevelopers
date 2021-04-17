@@ -1,0 +1,16 @@
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.exe
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.deps.json
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.runtimeconfig.json
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.runtimeconfig.dev.json
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.dll
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\ref\SchoolMangementSystem.dll
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.pdb
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.csprojAssemblyReference.cache
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.AssemblyInfoInputs.cache
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.AssemblyInfo.cs
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.dll
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\ref\SchoolMangementSystem.dll
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.pdb
+D:\ITS\SECOND_SEMESTER\5231-DataStructureDesign\ANNUAL_PROJECT\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.genruntimeconfig.cache

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SchoolMangementSystem
 {
-    class GradeFactory
+    internal class GradeFactory
     {
         private GradeFactory() { }
 
@@ -15,7 +15,7 @@ namespace SchoolMangementSystem
         {
             return uniqueInstance;
         }
-        public static IGrade GetGrade()//FACTORY METHOD
+        internal IGrade GetGrade()//FACTORY METHOD
         {
             double mark, smark;
             int rollNumber;

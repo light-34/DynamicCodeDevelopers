@@ -33,8 +33,8 @@ namespace SchoolMangementSystem
         private static void acceptStudent()
         {
             GradeFactory gradeFactory = GradeFactory.GetGradeModel();
-            IGrade grade = GradeFactory.GetGrade();
-            grade.learn("Message from Main");
+            IGrade grade = gradeFactory.GetGrade();
+            grade.learn("New student");
         }
     }
 }

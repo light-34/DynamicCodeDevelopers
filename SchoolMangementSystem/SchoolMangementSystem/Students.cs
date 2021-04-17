@@ -11,10 +11,10 @@ namespace SchoolMangementSystem
         private int rollNumber;
         private DateTime regDate;
 
-        public Students(string fname, string lname, int roll, DateTime date) : base(fname, lname)
+        public Students(string fname, string lname, int rollNumber, DateTime regDate) : base(fname, lname)
         {
-            this.rollNumber = roll;
-            this.regDate = date;
+            this.rollNumber = rollNumber;
+            this.regDate = regDate;
         }
     }
 }

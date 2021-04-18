@@ -8,25 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cezmi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ITS\\SECOND_SEMESTER\\5231-DataStructureDesign\\ANNUAL_PROJECT\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj",
+      "projectUniqueName": "G:\\WINTER 2021\\Data Structure and Design Pattern\\AssignmentFinalAssignment\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj",
       "projectName": "SchoolMangementSystem",
-      "projectPath": "D:\\ITS\\SECOND_SEMESTER\\5231-DataStructureDesign\\ANNUAL_PROJECT\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj",
-      "packagesPath": "C:\\Users\\cezmi\\.nuget\\packages\\",
-      "outputPath": "D:\\ITS\\SECOND_SEMESTER\\5231-DataStructureDesign\\ANNUAL_PROJECT\\SchoolMangementSystem\\SchoolMangementSystem\\obj\\",
+      "projectPath": "G:\\WINTER 2021\\Data Structure and Design Pattern\\AssignmentFinalAssignment\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "G:\\WINTER 2021\\Data Structure and Design Pattern\\AssignmentFinalAssignment\\SchoolMangementSystem\\SchoolMangementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\cezmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

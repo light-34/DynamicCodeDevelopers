@@ -18,5 +18,15 @@ namespace SchoolMangementSystem
             this.regDate = regDate;
             this.englishMark = englishMark;
         }
+
+        internal void Competite(IQuestion question)
+        {
+            question.Explain();
+        }
+
+        internal double getEnglishMarks()
+        {
+            return englishMark;
+        }
     }
 }

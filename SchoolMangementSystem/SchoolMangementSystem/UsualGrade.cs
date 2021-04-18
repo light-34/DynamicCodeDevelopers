@@ -10,7 +10,7 @@ namespace SchoolMangementSystem
     {
         public void learn(string Message)
         {
-            Console.WriteLine("{0} - Learn a course.", Message);//Method Log to display simple message
+            Console.WriteLine("{0} - Enrolled a usual grade.", Message);//Method Log to display simple message
         }
     }
 }

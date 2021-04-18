@@ -9,7 +9,7 @@ namespace SchoolMangementSystem
             Console.WriteLine("                 School Management System");
             Console.WriteLine("1. Accept a new student");
             Console.WriteLine("2. Participate in a competition");
-            Console.WriteLine("99. Participate in a competition");
+            Console.WriteLine("99. Exit");
             string menuitem = Console.ReadLine();
             switch (menuitem)
             {
@@ -43,8 +43,6 @@ namespace SchoolMangementSystem
             IQuestion experimentQuestion = new ExperimentToQuestionAdapter(experiment);
             // proving a question
             student.Competite(experimentQuestion);
-
-            Console.Read();
         }
 
         private static void acceptStudent()

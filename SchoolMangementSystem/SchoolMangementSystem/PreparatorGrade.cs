@@ -10,7 +10,7 @@ namespace SchoolMangementSystem
     {
         public void learn(string Message)
         {
-            Console.WriteLine("{0} - Enrolled in Preparator Grade.", Message); ;
+            Console.WriteLine("{0} - Enrolled to the Preparator Grade.", Message); ;
         }
     }
 }

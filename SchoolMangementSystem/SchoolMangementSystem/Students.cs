@@ -11,22 +11,75 @@ namespace SchoolMangementSystem
         private int rollNumber;
         private DateTime regDate;
         private double englishMark;
+        private string gradetype;
 
-        public Students(string fname, string lname, int rollNumber, DateTime regDate, double englishMark) : base(fname, lname)
+        private static bool result = false;
+
+        public Students(string fname, string lname, int rollNumber, DateTime regDate, double englishMark, string gradetype) : base(fname, lname)
         {
             this.rollNumber = rollNumber;
             this.regDate = regDate;
             this.englishMark = englishMark;
+            this.gradetype = gradetype;
         }
 
         internal void Competite(IQuestion question)
         {
+            string dquestion;
+            if (!result)
+            {
+                do
+                {
+                    Console.WriteLine("\t\t\t\tPLease, choose the question from 1 to 5\n");
+                    Console.WriteLine("\t\t-----------------------------------------------------------------------------");
+                    int choice = Int32.Parse(Console.ReadLine());
+                    Dictionary<int, string> questions = new Dictionary<int, string>()
+                {
+                    { 1, "A" },
+                    { 2, "B" },
+                    { 3, "C" },
+                    { 5, "D" }
+
+                };
+                    if (questions.ContainsKey(choice))
+                    {
+                        dquestion = questions[choice];
+                        Console.WriteLine("Your question is " + dquestion);
+                        result = true;
+                    }
+                    else Console.WriteLine("Wrong question number! Choose correct number of question");
+                } while (!result);
+            }
+            else
+            {
+                Console.WriteLine("PLease, Prove your question");
+            }
             question.Explain();
+        }
+
+        internal int getrollNumber()
+        {
+            return rollNumber;
+        }
+
+        internal DateTime getRegDate()
+        {
+            return regDate;
         }
 
         internal double getEnglishMarks()
         {
             return englishMark;
         }
+
+        internal string getGradetype()
+        {
+            return gradetype;
+        }
+        internal void SetGradetype(string gtype)
+        {
+            this.gradetype = gtype;
+        }
+
     }
 }

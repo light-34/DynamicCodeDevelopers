@@ -16,5 +16,13 @@ namespace SchoolMangementSystem
             this.fname = fname;
             this.lname = lname;
         }
+        public string getFName()
+        {
+            return fname;
+        }
+        public string getLName()
+        {
+            return lname;
+        }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\WINTER 2021\\Data Structure and Design Pattern\\AssignmentFinalAssignment\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj": {}
+    "G:\\WINTER 2021\\Data Structure and Design Pattern\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj": {}
   },
   "projects": {
-    "G:\\WINTER 2021\\Data Structure and Design Pattern\\AssignmentFinalAssignment\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj": {
+    "G:\\WINTER 2021\\Data Structure and Design Pattern\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\WINTER 2021\\Data Structure and Design Pattern\\AssignmentFinalAssignment\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj",
+        "projectUniqueName": "G:\\WINTER 2021\\Data Structure and Design Pattern\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj",
         "projectName": "SchoolMangementSystem",
-        "projectPath": "G:\\WINTER 2021\\Data Structure and Design Pattern\\AssignmentFinalAssignment\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj",
+        "projectPath": "G:\\WINTER 2021\\Data Structure and Design Pattern\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "G:\\WINTER 2021\\Data Structure and Design Pattern\\AssignmentFinalAssignment\\SchoolMangementSystem\\SchoolMangementSystem\\obj\\",
+        "outputPath": "G:\\WINTER 2021\\Data Structure and Design Pattern\\SchoolMangementSystem\\SchoolMangementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Collections.NonGeneric": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

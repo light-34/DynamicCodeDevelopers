@@ -16,5 +16,14 @@ namespace SchoolMangementSystem
             this.hireDate = hireDate;
             this.salary = salary;
         }
+        public DateTime getHireDate()
+        {
+            return hireDate;
+        }
+
+        public double getSalary()
+        {
+            return salary;
+        }
     }
 }

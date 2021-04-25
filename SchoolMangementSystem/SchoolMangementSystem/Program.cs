@@ -13,6 +13,7 @@ namespace SchoolMangementSystem
                 Console.WriteLine("1. Accept a new student");
                 Console.WriteLine("2. Participate in a competition");
                 Console.WriteLine("3. Calculate total salary of employee");
+                Console.WriteLine("4. Cezmi's menu");
                 Console.WriteLine("99. Exit");
                 string menuitem = Console.ReadLine();
                 switch (menuitem)
@@ -37,33 +38,33 @@ namespace SchoolMangementSystem
             } while (true);
         }
         private static void compitate()
-            {
-                // participator
-                Students student = new Students("Vasya", "Ivanov", 2, DateTime.Now, 5.6);
-                // answer
-                Answer answer = new Answer();
-                // answer the questions
-                student.Competite(answer);
-                // need to prove a question
-                Experiment experiment = new Experiment();
-                // use a adapter
-                IQuestion experimentQuestion = new ExperimentToQuestionAdapter(experiment);
-                // proving a question
-                student.Competite(experimentQuestion);
-            }
+        {
+            // participator
+            Students student = new Students("Vasya", "Ivanov", 2, DateTime.Now, 5.6, "Usual Grade");
+            // answer
+            Answer answer = new Answer();
+            // answer the questions
+            student.Competite(answer);
+            // need to prove a question
+            Experiment experiment = new Experiment();
+            // use a adapter
+            IQuestion experimentQuestion = new ExperimentToQuestionAdapter(experiment);
+            // proving a question
+            student.Competite(experimentQuestion);
+        }
 
-            private static void acceptStudent()
-            {
-                GradeFactory gradeFactory = GradeFactory.GetGradeModel();
-                IGrade grade = gradeFactory.GetGrade();
-                grade.learn("New student");
-            }
+        private static void acceptStudent()
+        {
+            GradeFactory gradeFactory = GradeFactory.GetGradeModel();
+            IGrade grade = gradeFactory.GetGrade();
+            grade.learn("New student: ");
+        }
 
-            private static void calculateSalaryEmpl()
-            {
-                CalculateSalaryEmployee calculateSal = new CalculateSalaryEmployee();
-                calculateSal.CalculateSalaryEmpl();
-            }
+        private static void calculateSalaryEmpl()
+        {
+            CalculateSalaryEmployee calculateSal = new CalculateSalaryEmployee();
+            calculateSal.CalculateSalaryEmpl();
+        }
        
     }
 }

@@ -30,3 +30,67 @@ C:\Users\user\Desktop\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMan
 C:\Users\user\Desktop\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\ref\SchoolMangementSystem.dll
 C:\Users\user\Desktop\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.pdb
 C:\Users\user\Desktop\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.genruntimeconfig.cache
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.exe
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.deps.json
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.runtimeconfig.json
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.runtimeconfig.dev.json
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.dll
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\ref\SchoolMangementSystem.dll
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.pdb
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.csprojAssemblyReference.cache
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.AssemblyInfoInputs.cache
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.AssemblyInfo.cs
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.dll
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\ref\SchoolMangementSystem.dll
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.pdb
+G:\WINTER 2021\Data Structure and Design Pattern\AssignmentFinalAssignment\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.genruntimeconfig.cache
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.exe
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.deps.json
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.runtimeconfig.json
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.runtimeconfig.dev.json
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.dll
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\ref\SchoolMangementSystem.dll
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.pdb
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.csprojAssemblyReference.cache
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.AssemblyInfoInputs.cache
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.AssemblyInfo.cs
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.dll
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\ref\SchoolMangementSystem.dll
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.pdb
+C:\Users\Nurlybek\Documents\Winter2021\DataStructure\GroupAssignment\DynamicCodeDevelopers-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.genruntimeconfig.cache
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.exe
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.deps.json
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.runtimeconfig.json
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.runtimeconfig.dev.json
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.dll
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\ref\SchoolMangementSystem.dll
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.pdb
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.AssemblyInfo.cs
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.dll
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\ref\SchoolMangementSystem.dll
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.pdb
+C:\Users\user\Desktop\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.genruntimeconfig.cache
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.exe
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.deps.json
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.runtimeconfig.json
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.runtimeconfig.dev.json
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.dll
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\ref\SchoolMangementSystem.dll
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\net5.0\SchoolMangementSystem.pdb
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.csprojAssemblyReference.cache
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.AssemblyInfoInputs.cache
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.AssemblyInfo.cs
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.dll
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\ref\SchoolMangementSystem.dll
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.pdb
+G:\WINTER 2021\Data Structure and Design Pattern\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\net5.0\SchoolMangementSystem.genruntimeconfig.cache

@@ -57,7 +57,7 @@ namespace SchoolMangementSystem
             question.Explain();
         }
 
-        internal int getrollNumber()
+        internal int getRollNumber()
         {
             return rollNumber;
         }

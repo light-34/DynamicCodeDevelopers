@@ -1036,25 +1036,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\cezmi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\WINTER 2021\\Data Structure and Design Pattern\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj",
+      "projectUniqueName": "D:\\ITS\\SECOND_SEMESTER\\5231-DataStructureDesign\\ANNUAL_PROJECT_N\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj",
       "projectName": "SchoolMangementSystem",
-      "projectPath": "G:\\WINTER 2021\\Data Structure and Design Pattern\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "G:\\WINTER 2021\\Data Structure and Design Pattern\\SchoolMangementSystem\\SchoolMangementSystem\\obj\\",
+      "projectPath": "D:\\ITS\\SECOND_SEMESTER\\5231-DataStructureDesign\\ANNUAL_PROJECT_N\\SchoolMangementSystem\\SchoolMangementSystem\\SchoolMangementSystem.csproj",
+      "packagesPath": "C:\\Users\\cezmi\\.nuget\\packages\\",
+      "outputPath": "D:\\ITS\\SECOND_SEMESTER\\5231-DataStructureDesign\\ANNUAL_PROJECT_N\\SchoolMangementSystem\\SchoolMangementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\cezmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -1099,7 +1099,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

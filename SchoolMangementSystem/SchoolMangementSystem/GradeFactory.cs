@@ -62,7 +62,7 @@ namespace SchoolMangementSystem
             }
             slist.Add(fname);
             slist.Add(lname);
-            slist.Add(student.getrollNumber());
+            slist.Add(student.getRollNumber());
             slist.Add(student.getRegDate().ToString("d"));
             slist.Add(student.getEnglishMarks());
             slist.Add(student.getGradetype());

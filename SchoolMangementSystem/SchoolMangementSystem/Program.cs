@@ -7,13 +7,14 @@ namespace SchoolMangementSystem
 
         static void Main(string[] args)
         {
+               
             do
             {
                 Console.WriteLine("                 School Management System");
                 Console.WriteLine("1. Accept a new student");
                 Console.WriteLine("2. Participate in a competition");
                 Console.WriteLine("3. Calculate total salary of employee");
-                Console.WriteLine("4. Cezmi's menu");
+                Console.WriteLine("4. Calculate Average Mark of a Student");
                 Console.WriteLine("99. Exit");
                 string menuitem = Console.ReadLine();
                 switch (menuitem)
@@ -26,6 +27,10 @@ namespace SchoolMangementSystem
                         break;
                     case "3":
                         calculateSalaryEmpl();
+                        break;
+                    case "4":
+                        Marks mark = new Marks();
+                        mark.getMarks();
                         break;
                     case "99":
                         Environment.Exit(0); ;
@@ -65,6 +70,7 @@ namespace SchoolMangementSystem
             CalculateSalaryEmployee calculateSal = new CalculateSalaryEmployee();
             calculateSal.CalculateSalaryEmpl();
         }
-       
+
+
     }
 }

@@ -23,6 +23,11 @@ namespace SchoolMangementSystem
             this.gradetype = gradetype;
         }
 
+        public Students(string fname, string lname, int rollNumber) : base(fname, lname)
+        {
+            this.rollNumber = rollNumber;
+        }
+
         internal void Competite(IQuestion question)
         {
             string dquestion;

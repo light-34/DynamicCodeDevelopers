@@ -36,7 +36,7 @@ namespace SchoolMangementSystem
                 do
                 {
                     Console.WriteLine("\t\t\t\tPLease, choose the question from 1 to 5\n");
-                    Console.WriteLine("\t\t-----------------------------------------------------------------------------");
+                    Console.WriteLine("\t\t********************************************************************");
                     int choice = Int32.Parse(Console.ReadLine());
                     Dictionary<int, string> questions = new Dictionary<int, string>()
                 {

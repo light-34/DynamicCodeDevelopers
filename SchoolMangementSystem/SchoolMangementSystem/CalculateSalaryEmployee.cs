@@ -11,7 +11,7 @@ namespace SchoolMangementSystem
         public void CalculateSalaryEmpl()
         {
             Console.WriteLine("\t\t\t\tCalculation of the Total Salary an Employee Per Month\n");
-            Console.WriteLine("\t\t-----------------------------------------------------------------------------");
+            Console.WriteLine("\t\t**************************************************************");
 
             List<double> tot = new List<double>();
             Dictionary<string, double> empl = new Dictionary<string, double>();
@@ -43,6 +43,7 @@ namespace SchoolMangementSystem
 
                 if (years >= 1 && years <= 5)
                 {
+                    Console.WriteLine("*************************************************************************\n");
                     calcTotSal.SetStrategy(bsShort);
                     salary = calcTotSal.CalculateSalary(salary, years);
                     Console.WriteLine("The salary per month total: " + Math.Round(salary, 2));
@@ -52,6 +53,7 @@ namespace SchoolMangementSystem
 
                 else if (years > 5 && years <= 15)
                 {
+                    Console.WriteLine("*************************************************************************\n");
                     calcTotSal.SetStrategy(bsMedium);
                     salary = calcTotSal.CalculateSalary(salary, years);
                     Console.WriteLine("The salary per month total: " + Math.Round(salary, 2));
@@ -61,6 +63,7 @@ namespace SchoolMangementSystem
 
                 else if (years > 15)
                 {
+                    Console.WriteLine("*************************************************************************\n");
                     calcTotSal.SetStrategy(bsLong);
                     salary = calcTotSal.CalculateSalary(salary, years);
                     Console.WriteLine("The salary per month total: " + Math.Round(salary, 2));
@@ -69,9 +72,11 @@ namespace SchoolMangementSystem
                 }
                 else
                 {
+                    Console.WriteLine("*************************************************************************\n");
                     Console.WriteLine("Employee does not have any experience, he will not be credited with a bonus");
                     tot.Add(salary);
                     empl.Add(teacher.getLName(), salary);
+                    
                 }
 
                 Console.WriteLine("\nDo you add employee else? y/n");
@@ -83,7 +88,7 @@ namespace SchoolMangementSystem
             {
                 totalsal += item;
             }
-            Console.WriteLine("---------------------------------------------------------------------------------------");
+            Console.WriteLine("****************************************************************************");
 
 
             foreach (KeyValuePair<string, double> item in empl)

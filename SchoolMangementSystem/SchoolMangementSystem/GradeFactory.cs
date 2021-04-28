@@ -23,7 +23,7 @@ namespace SchoolMangementSystem
             DateTime regdate;
             string type, fname, lname;
             Console.WriteLine("\t\t\t\tAcceptation a new student\n");
-            Console.WriteLine("\t\t-----------------------------------------------------------------------------");
+            Console.WriteLine("\t\t*****************************************************************************");
             string gtype;
             IGrade model;
             ArrayList slist = new ArrayList();
@@ -68,7 +68,7 @@ namespace SchoolMangementSystem
             slist.Add(student.getGradetype());
             foreach (var item in slist)
                 Console.Write(item + " ");
-            Console.WriteLine();    
+            Console.WriteLine("*************************************************************************\n");
             return model;
         }
     }

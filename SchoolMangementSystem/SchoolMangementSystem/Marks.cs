@@ -42,8 +42,8 @@ namespace SchoolMangementSystem
             double midThree = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("\nEnter final exam mark");
             double final = Convert.ToDouble(Console.ReadLine());
-            Students student = new Students(name, lname, roll);
 
+            Students student = new Students(name, lname, roll);
             double average = semesterAverageMark(new Marks(midOne, midTwo, midThree, final));
             printMarks(student, average);
            
@@ -66,9 +66,9 @@ namespace SchoolMangementSystem
         //a double parameter to display data
         public void printMarks(Students student, double average)
         {
-            Console.WriteLine("**********************************************************************************************************************************\n");
+            Console.WriteLine("*************************************************************************\n");
             Console.WriteLine($"Student Avarage Mark Info \nFull Name : {student.getLName()}, {student.getFName()} \nRoll Number : {student.getRollNumber()} \nAverage Mark : {average}\n");
-            Console.WriteLine("**********************************************************************************************************************************\n");
+            Console.WriteLine("*************************************************************************\n");
         }
     }
 }

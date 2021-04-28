@@ -56,6 +56,7 @@ namespace SchoolMangementSystem
             IQuestion experimentQuestion = new ExperimentToQuestionAdapter(experiment);
             // proving a question
             student.Competite(experimentQuestion);
+            Console.WriteLine("*************************************************************************\n");
         }
 
         private static void acceptStudent()

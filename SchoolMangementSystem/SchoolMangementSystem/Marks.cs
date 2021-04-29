@@ -13,7 +13,7 @@ namespace SchoolMangementSystem
         private double midtermTwo;
         private double midtermThree;
         private double final;
-        private Hashtable avHash = new Hashtable();
+        private Hashtable avHash = new Hashtable(); //Hashtable to hold roll number and average mark
         
 
         public Marks () { }
@@ -30,7 +30,7 @@ namespace SchoolMangementSystem
         public void getMarks ()
         {
             string inChoice = "y";
-            do {
+            do { //Loop to continue calculating average
                 Console.WriteLine("                 Average Calculation System");
                 Console.WriteLine("**********************************************************\n");
                 Console.WriteLine("Please enter Student's Name");
@@ -52,7 +52,7 @@ namespace SchoolMangementSystem
                 double average = semesterAverageMark(new Marks(midOne, midTwo, midThree, final));
                 printMarks(student, average);
 
-                Console.WriteLine("Do you want to save this information? (Y/N)");
+                Console.WriteLine("Do you want to save this information? (Y/N)"); //Asks for saving information
                 string choice = Console.ReadLine();
 
                 if (String.Equals(choice, "y", StringComparison.OrdinalIgnoreCase))
@@ -72,7 +72,7 @@ namespace SchoolMangementSystem
 
             } while (String.Equals(inChoice, "y", StringComparison.OrdinalIgnoreCase));
 
-            Console.WriteLine("Do you want to display all average marks? (Y/N)");
+            Console.WriteLine("Do you want to display all average marks? (Y/N)"); //Asks for displaying average information
             string avMarkChoice = Console.ReadLine();
             if (String.Equals(avMarkChoice, "y", StringComparison.OrdinalIgnoreCase))
             {
@@ -93,6 +93,7 @@ namespace SchoolMangementSystem
 
         //This method is designed to get a Marks type parameter
         //and calculate average
+        //It uses Decorative Method
         public double semesterAverageMark(Marks mark)
         {
             ISemester semester = new Semester();

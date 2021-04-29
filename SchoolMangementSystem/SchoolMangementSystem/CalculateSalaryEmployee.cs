@@ -11,7 +11,7 @@ namespace SchoolMangementSystem
         public void CalculateSalaryEmpl()
         {
             Console.WriteLine("\t\t\t\tCalculation of the Total Salary an Employee Per Month\n");
-            Console.WriteLine("\t\t**************************************************************");
+            Console.WriteLine("\t\t\t*********************************************************************");
 
             List<double> tot = new List<double>();
             Dictionary<string, double> empl = new Dictionary<string, double>();
@@ -28,7 +28,7 @@ namespace SchoolMangementSystem
                 fname = Console.ReadLine();
                 Console.WriteLine("Please, Enter the Last name of employee");
                 lname = Console.ReadLine();
-                Console.WriteLine("Enter the salary rate of employee: ");
+                Console.WriteLine("Enter the salary of employee: ");
                 salary = Convert.ToDouble(Console.ReadLine());
                 Console.WriteLine("Please, Enter the hire date of employee");
                 hireDate = DateTime.Parse(Console.ReadLine());
@@ -76,7 +76,7 @@ namespace SchoolMangementSystem
                     Console.WriteLine("Employee does not have any experience, he will not be credited with a bonus");
                     tot.Add(salary);
                     empl.Add(teacher.getLName(), salary);
-                    
+
                 }
 
                 Console.WriteLine("\nDo you add employee else? y/n");
@@ -88,7 +88,7 @@ namespace SchoolMangementSystem
             {
                 totalsal += item;
             }
-            Console.WriteLine("****************************************************************************");
+            Console.WriteLine("*************************************************************************");
 
 
             foreach (KeyValuePair<string, double> item in empl)
@@ -102,6 +102,7 @@ namespace SchoolMangementSystem
             Console.WriteLine("\nThe total number of employees is : " + count);
             Console.WriteLine("\nThe total salary of employees is: " + Math.Round(totalsal, 2) + ", " +
                 "and average salary is: " + Math.Round((totalsal / count), 2) + "\n");
+            Console.WriteLine("*************************************************************************");
         }
     }
 }

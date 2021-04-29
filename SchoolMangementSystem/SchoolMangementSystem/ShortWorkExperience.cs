@@ -12,7 +12,7 @@ namespace SchoolMangementSystem
 
         public double CalculateSalary(double sal, int years)
         {
-            Console.WriteLine("The employee has short work experience and the bonus is: " + (bonus * years) * 100 + "%");
+            Console.WriteLine("The employee has short work experience and the bonus is: " + Math.Round((bonus * years) * 100) + "%");
             return ((sal * (bonus * years)) + sal);
         }
 

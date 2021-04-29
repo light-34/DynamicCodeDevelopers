@@ -11,6 +11,7 @@ namespace SchoolMangementSystem
         public void learn(string Message)
         {
             Console.WriteLine("{0} - Enrolled to the Usual Grade.", Message);//Method Log to display simple message
+            Console.WriteLine("*************************************************************************\n");
         }
     }
 }

@@ -52,7 +52,7 @@ namespace SchoolMangementSystem
                         Console.WriteLine("Your question is " + dquestion);
                         result = true;
                     }
-                    else Console.WriteLine("Wrong question number! Choose correct number of question");
+                    else Console.WriteLine("Wrong question number! Choose correct number of the question");
                 } while (!result);
             }
             else
@@ -60,6 +60,7 @@ namespace SchoolMangementSystem
                 Console.WriteLine("PLease, Prove your question");
             }
             question.Explain();
+            Console.WriteLine("*************************************************************************");
         }
 
         internal int getRollNumber()

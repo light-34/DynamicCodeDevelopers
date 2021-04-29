@@ -22,7 +22,7 @@ namespace SchoolMangementSystem
             int rollNumber;
             DateTime regdate;
             string type, fname, lname;
-            Console.WriteLine("\t\t\t\tAcceptation a new student\n");
+            Console.WriteLine("\t\t\t\tAcceptance of the new student\n");
             Console.WriteLine("\t\t*****************************************************************************");
             string gtype;
             IGrade model;
@@ -66,9 +66,10 @@ namespace SchoolMangementSystem
             slist.Add(student.getRegDate().ToString("d"));
             slist.Add(student.getEnglishMarks());
             slist.Add(student.getGradetype());
+            Console.WriteLine("*************************************************************************");
             foreach (var item in slist)
-                Console.Write(item + " ");
-            Console.WriteLine("*************************************************************************\n");
+                Console.Write(item + " " );
+            Console.WriteLine();
             return model;
         }
     }
